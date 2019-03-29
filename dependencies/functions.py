@@ -2,7 +2,6 @@ from __future__ import print_function
 
 import sys
 import tty
-from decimal import Decimal, getcontext
 from json import dumps, loads
 from math import floor, log10, sqrt
 from os import mkdir, path, popen, remove, system
